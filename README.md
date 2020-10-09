@@ -1,3 +1,5 @@
+https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878
+
 # Time Series Made Easy in Python
 
 ![darts](https://github.com/unit8co/darts/raw/develop/static/images/darts-logo-trim.png "darts") 
